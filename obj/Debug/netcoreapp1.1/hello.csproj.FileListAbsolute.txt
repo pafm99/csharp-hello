@@ -1,0 +1,8 @@
+/Users/paulfranco/Desktop/hello/bin/Debug/netcoreapp1.1/hello.deps.json
+/Users/paulfranco/Desktop/hello/bin/Debug/netcoreapp1.1/hello.runtimeconfig.json
+/Users/paulfranco/Desktop/hello/bin/Debug/netcoreapp1.1/hello.runtimeconfig.dev.json
+/Users/paulfranco/Desktop/hello/bin/Debug/netcoreapp1.1/hello.dll
+/Users/paulfranco/Desktop/hello/bin/Debug/netcoreapp1.1/hello.pdb
+/Users/paulfranco/Desktop/hello/obj/Debug/netcoreapp1.1/hello.AssemblyInfo.cs
+/Users/paulfranco/Desktop/hello/obj/Debug/netcoreapp1.1/hello.dll
+/Users/paulfranco/Desktop/hello/obj/Debug/netcoreapp1.1/hello.pdb
